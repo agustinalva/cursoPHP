@@ -1,0 +1,1 @@
+1|agustin|agustincl@gmail.com|123|aaaa|Desc|M|bcn|tiger|beisbol,natacion|Enviar|tiananmen-square-1989-22.jpg1|agustin|agustincl@gmail.com||direccion|descripcion|H|bcn|iguana|futbol|Enviar|urlg-1.jpg1|agustin|agustincl@gmail.com||direccion|descripcion|H|bcn|futbol|Enviar|urlg-2.jpg3|agustin55|agustincl@gmail.com||direccions|descripcion|H|bcn|tiger|beisbol|Enviar|url3.jpg1
